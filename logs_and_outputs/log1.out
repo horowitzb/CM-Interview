@@ -1,0 +1,13 @@
+Total Requests: 1485
+Total Data transmitted: 7.0GB
+Most requested resource: /pics/1.jpg
+Total requests for /pics/1.jpg: 185
+Percentage of requests for /pics/1.jpg: 12.4579124579
+Remote host with the most requests: 127.0.0.1
+Total requests from 127.0.0.1: 525
+Percentage of requests from 127.0.0.1: 35.3535353535
+Percentage of 1xx requests: 19.2592592593
+Percentage of 2xx requests: 18.4511784512
+Percentage of 3xx requests: 21.2121212121
+Percentage of 4xx requests: 20.6734006734
+Percentage of 5xx requests: 20.4040404040
